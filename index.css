@@ -1,0 +1,28 @@
+#myDiv {
+  font-family: "Brush Script MT", cursive;
+  border: 3px solid;
+  border-radius: 10px;
+  padding: 10px;
+  background-color: lightgray;
+  text-align: center;
+}
+
+.myText {
+  text-align: center;
+}
+
+.choiceBtn {
+  line-height: 30px;
+  width: 150px;
+  border: 2px solid;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#playerText {
+  color: blue;
+}
+
+#computerText {
+  color: red;
+}
